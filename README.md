@@ -4,6 +4,8 @@
 
 ### Covi-Bot is a chat bot made on Azure services for Future Ready Talent project.
 
+![App Screenshot](https://i.imgur.com/Oqtgjbw.png)
+
 #### Quick Note - I wasn't able to update the project symbiosis, so I've added it here - 
 
 #### Industry Name - Health
